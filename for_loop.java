@@ -4,5 +4,6 @@ public class for_loop {
 		for(int i=0 ; i<4 ; i++) {
 			System.out.println("New Change");
 		}
+		System.out.println("Welcome to 2020");
 	}
 }
